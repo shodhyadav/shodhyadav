@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java
 - 📫 How to reach me: shodhyadav7@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I m good crickter.
+- ⚡ Fun fact: I m good cricketer.
 
